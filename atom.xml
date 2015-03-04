@@ -4,7 +4,7 @@
   <title><![CDATA[Marco的Blog]]></title>
   <link href="http://hhymarco.github.io/atom.xml" rel="self"/>
   <link href="http://hhymarco.github.io/"/>
-  <updated>2015-03-04T23:53:51+08:00</updated>
+  <updated>2015-03-05T00:02:10+08:00</updated>
   <id>http://hhymarco.github.io/</id>
   <author>
     <name><![CDATA[marco]]></name>
@@ -18,8 +18,12 @@
     <link href="http://hhymarco.github.io/blog/2015/03/04/ji-zhu-yuan-zhi-shi-ti-xi/"/>
     <updated>2015-03-04T17:36:14+08:00</updated>
     <id>http://hhymarco.github.io/blog/2015/03/04/ji-zhu-yuan-zhi-shi-ti-xi</id>
-    <content type="html"><![CDATA[<p>回顾了这十几年来的工作经历，总结了自己掌握的知识体系，因为工作偏向技术，所以叫“技术猿知识体系”。<br/>
-<img src="http://hhymarco.github.io/images/coder_knownledge.png"></p>
+    <content type="html"><![CDATA[<p>回顾了这十几年来的工作经历，总结了自己掌握的知识体系，因为工作偏向技术，所以叫“技术猿知识体系”。</p>
+
+<!--more-->
+
+
+<p><img src="http://hhymarco.github.io/images/coder_knownledge.png"></p>
 ]]></content>
   </entry>
   
