@@ -4,7 +4,7 @@
   <title><![CDATA[Marco的Blog]]></title>
   <link href="http://hhymarco.github.io/atom.xml" rel="self"/>
   <link href="http://hhymarco.github.io/"/>
-  <updated>2015-03-04T14:30:26+08:00</updated>
+  <updated>2015-03-04T17:58:47+08:00</updated>
   <id>http://hhymarco.github.io/</id>
   <author>
     <name><![CDATA[marco]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[技术猿知识体系]]></title>
+    <link href="http://hhymarco.github.io/blog/2015/03/04/ji-zhu-yuan-zhi-shi-ti-xi/"/>
+    <updated>2015-03-04T17:36:14+08:00</updated>
+    <id>http://hhymarco.github.io/blog/2015/03/04/ji-zhu-yuan-zhi-shi-ti-xi</id>
+    <content type="html"><![CDATA[<p>回顾了这十几年来的工作经历，总结了自己掌握的知识体系，因为工作偏向技术，所以叫“技术猿知识体系”。<br/>
+｛％ img coder_knownledge.png ％｝</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[随便开始]]></title>
