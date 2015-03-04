@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Marco的Blog]]></title>
+  <link href="http://hhymarco.github.io/atom.xml" rel="self"/>
+  <link href="http://hhymarco.github.io/"/>
+  <updated>2015-03-04T14:30:26+08:00</updated>
+  <id>http://hhymarco.github.io/</id>
+  <author>
+    <name><![CDATA[marco]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[随便开始]]></title>
+    <link href="http://hhymarco.github.io/blog/2015/03/04/begin-blog/"/>
+    <updated>2015-03-04T13:34:38+08:00</updated>
+    <id>http://hhymarco.github.io/blog/2015/03/04/begin-blog</id>
+    <content type="html"><![CDATA[<p>将公司内网中的blog搬到github，包括项目开发和实施中的经验总结，对一些开发框架的想法。</p>
+]]></content>
+  </entry>
+  
+</feed>
