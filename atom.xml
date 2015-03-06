@@ -4,7 +4,7 @@
   <title><![CDATA[Marco的Blog]]></title>
   <link href="http://hhymarco.github.io/atom.xml" rel="self"/>
   <link href="http://hhymarco.github.io/"/>
-  <updated>2015-03-05T00:02:10+08:00</updated>
+  <updated>2015-03-06T13:20:49+08:00</updated>
   <id>http://hhymarco.github.io/</id>
   <author>
     <name><![CDATA[marco]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mac环境变量设置]]></title>
+    <link href="http://hhymarco.github.io/blog/2015/03/06/machuan-jing-bian-liang-she-zhi/"/>
+    <updated>2015-03-06T10:59:17+08:00</updated>
+    <id>http://hhymarco.github.io/blog/2015/03/06/machuan-jing-bian-liang-she-zhi</id>
+    <content type="html"><![CDATA[<p>今天用idea配置gradle时出了个ANDROID_HOME环境变量找不到的问题，查了源码是System.getenv(&ldquo;ANDROID_HOME&rdquo;)出错，未找到该系统变量。<br/>
+可我设了.bash_profile文件啊!查了下原因，原来这只针对terminal有效。
+google了解决方法，简要翻译下<a href="http://www.dowdandassociates.com/blog/content/howto-set-an-environment-variable-in-mac-os-x/">HowTo: Set an Environment Variable in Mac OS X</a>：<br/>
+.   termainal设置方法，比如设置.bash_profile，只有命令行才有效。<br/>
+. 设置environment.plist，只对Mac OS X 10.8以前的版本有效。<br/>
+. 设置/etc/launchd.conf，只对Mac OS X 10.10以前的版本有效。<br/>
+. 设置launchd.plist，用于替代launchd.conf。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[技术猿知识体系]]></title>
