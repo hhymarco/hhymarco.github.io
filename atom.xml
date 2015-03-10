@@ -4,7 +4,7 @@
   <title><![CDATA[Marco的Blog]]></title>
   <link href="http://hhymarco.github.io/atom.xml" rel="self"/>
   <link href="http://hhymarco.github.io/"/>
-  <updated>2015-03-10T16:12:40+08:00</updated>
+  <updated>2015-03-10T16:44:01+08:00</updated>
   <id>http://hhymarco.github.io/</id>
   <author>
     <name><![CDATA[marco]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ZSH中rake命令参数]]></title>
+    <link href="http://hhymarco.github.io/blog/2015/03/10/zshzhong-rakeming-ling-can-shu/"/>
+    <updated>2015-03-10T16:21:03+08:00</updated>
+    <id>http://hhymarco.github.io/blog/2015/03/10/zshzhong-rakeming-ling-can-shu</id>
+    <content type="html"><![CDATA[<p>ZSH默认设置时，使用octopress带参数命令出错，比如：</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'>rake install<span class="o">[</span><span class="s1">&#39;splash&#39;</span><span class="o">]</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>
+ZSH会报:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'>zsh: no matches found: install<span class="o">[</span>splash<span class="o">]</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>
+解决方法就是在.zshrc中增加：</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'><span class="nb">alias </span><span class="nv">rake</span><span class="o">=</span><span class="s1">&#39;noglob rake&#39;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mac环境变量设置]]></title>
