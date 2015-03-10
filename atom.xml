@@ -4,7 +4,7 @@
   <title><![CDATA[Marco的Blog]]></title>
   <link href="http://hhymarco.github.io/atom.xml" rel="self"/>
   <link href="http://hhymarco.github.io/"/>
-  <updated>2015-03-10T16:44:01+08:00</updated>
+  <updated>2015-03-10T17:49:37+08:00</updated>
   <id>http://hhymarco.github.io/</id>
   <author>
     <name><![CDATA[marco]]></name>
@@ -20,7 +20,8 @@
     <id>http://hhymarco.github.io/blog/2015/03/10/zshzhong-rakeming-ling-can-shu</id>
     <content type="html"><![CDATA[<p>ZSH默认设置时，使用octopress带参数命令出错，比如：</p>
 
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<figure class='code'><figcaption><span>linenos:false </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class='bash'><span class='line'>rake install<span class="o">[</span><span class="s1">&#39;splash&#39;</span><span class="o">]</span>
 </span></code></pre></td></tr></table></div></figure>
 
