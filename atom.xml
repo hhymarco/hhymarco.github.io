@@ -4,7 +4,7 @@
   <title><![CDATA[Marco的Blog]]></title>
   <link href="http://hhymarco.github.io/atom.xml" rel="self"/>
   <link href="http://hhymarco.github.io/"/>
-  <updated>2015-03-12T13:32:59+08:00</updated>
+  <updated>2015-03-17T20:21:39+08:00</updated>
   <id>http://hhymarco.github.io/</id>
   <author>
     <name><![CDATA[marco]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Linux各目录作用]]></title>
+    <link href="http://hhymarco.github.io/blog/2015/03/17/linuxge-mu-lu-zuo-yong/"/>
+    <updated>2015-03-17T20:11:54+08:00</updated>
+    <id>http://hhymarco.github.io/blog/2015/03/17/linuxge-mu-lu-zuo-yong</id>
+    <content type="html"><![CDATA[<p>Linux中各目录的作用，源自<a href="http://refspecs.linuxfoundation.org/FHS_2.3/fhs-2.3.pdf">FHS</a></p>
+
+<!--more-->
+
+
+<p><img src="http://hhymarco.github.io/images/my/Linux_HFS.png"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ZSH中rake命令参数]]></title>
